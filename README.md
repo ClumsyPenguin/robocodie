@@ -1,3 +1,3 @@
 # robocodie
 
-Robotcode bevat de libraries om robocodie te runnen.
+Robotcode bevat de libraries om rubeserke2000 te runnen.
