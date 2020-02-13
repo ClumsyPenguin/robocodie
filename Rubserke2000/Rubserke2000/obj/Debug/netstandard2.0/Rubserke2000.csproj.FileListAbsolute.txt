@@ -1,0 +1,11 @@
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\bin\Debug\netstandard2.0\Rubserke2000.deps.json
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\bin\Debug\netstandard2.0\Rubserke2000.dll
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\bin\Debug\netstandard2.0\Rubserke2000.pdb
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\bin\Debug\netstandard2.0\robocode.dll
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\bin\Debug\netstandard2.0\robocode.xml
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\obj\Debug\netstandard2.0\Rubserke2000.csprojAssemblyReference.cache
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\obj\Debug\netstandard2.0\Rubserke2000.AssemblyInfoInputs.cache
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\obj\Debug\netstandard2.0\Rubserke2000.AssemblyInfo.cs
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\obj\Debug\netstandard2.0\Rubserke2000.csproj.CopyComplete
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\obj\Debug\netstandard2.0\Rubserke2000.dll
+C:\Users\s.geerinckx\Documents\Private Projects\Robocodie\robocodie\Rubserke2000\Rubserke2000\obj\Debug\netstandard2.0\Rubserke2000.pdb
